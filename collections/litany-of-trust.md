@@ -1,8 +1,6 @@
 # Litany of Trust
 
-Written by Sr. Faustina Maria Pia, SV
-
-SISTERS OF LIFE
+*Written by **Sr. Faustina Maria Pia**, SV - *SISTERS OF LIFE**
 
 
 From the belief that I have to earn Your love
