@@ -41,7 +41,7 @@ From the fear of being suspected,
 
 That others may be loved more than I,
 
-> *Jesus, grant me the grace to desire it.* Jesus, (repeat after each petition)
+> *Jesus, grant me the grace to desire it.*  (repeat after each petition)
 
 That others may be esteemed more than I,
 
