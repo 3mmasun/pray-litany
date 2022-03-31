@@ -1,4 +1,4 @@
-# Litany Of Humility
+# Litany of Humility
 
 O Jesus, meek and humble of heart,
 
@@ -6,7 +6,7 @@ O Jesus, meek and humble of heart,
 
 From the desire of being esteemed,
 
-> *Deliver me, O Jesus.* (repeat after each line)
+> *Deliver me, O Jesus.* (repeat after each petition)
 
 From the desire of being loved,
 
@@ -41,7 +41,7 @@ From the fear of being suspected,
 
 That others may be loved more than I,
 
-> *Jesus, grant me the grace to desire it.* Jesus, (repeat after each line)
+> *Jesus, grant me the grace to desire it.* Jesus, (repeat after each petition)
 
 That others may be esteemed more than I,
 
