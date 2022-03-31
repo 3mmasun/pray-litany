@@ -62,3 +62,5 @@ That You will teach me to trust You
 That You are my Lord and my God
 
 That I am Your beloved one
+
+Amen.

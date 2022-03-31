@@ -54,3 +54,5 @@ That others may be praised and I go unnoticed,
 That others may be preferred to me in everything,
 
 That others may become holier than I, provided that I may become as holy as I should,
+
+Amen.
