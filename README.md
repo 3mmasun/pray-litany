@@ -6,3 +6,4 @@ A collection of litanies, each consisting of a number of petitions
 |[Litany of Humility](./collections/litany-of-humility.md)|
 |[Litany of Trust](./collections/litany-of-trust.md)|
 |[Litany of Patience](./collections/litany-of-patience.md)|
+|[Litany for the Dead](./collections/litany-for-the-dead.md)|
