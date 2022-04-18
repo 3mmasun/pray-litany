@@ -7,3 +7,4 @@ A collection of litanies, each consisting of a number of petitions
 |[Litany of Trust](./collections/litany-of-trust.md)|
 |[Litany of Patience](./collections/litany-of-patience.md)|
 |[Litany for the Dead](./collections/litany-for-the-dead.md)|
+|[Litany for the Poor](./collections/litany-for-the-poor.md)|
