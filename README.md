@@ -10,3 +10,4 @@ A collection of litanies, each consisting of a number of petitions
 |[Litany for the Poor](./collections/litany-for-the-poor.md)|
 |[Litany for the Homeless](./collections/litany-for-the-homeless.md)|
 |[Litany for the Hungry](./collections/litany-for-the-hungry.md)|
+|[Litany for the Sick](./collections/litany-for-the-sick.md)|
