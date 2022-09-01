@@ -6,6 +6,9 @@ A collection of litanies, each consisting of a number of petitions
 |[Litany of Humility](./collections/litany-of-humility.md)|
 |[Litany of Trust](./collections/litany-of-trust.md)|
 |[Litany of Patience](./collections/litany-of-patience.md)|
+|[Litany of Loreto](./collections/litany-of-loreto.md)|
+|[Litany of St. Joseph](./collections/litany-of-st-joseph.md)|
+|[Litany of the Saints](./collections/litany-of-the-saints.md)|
 |[Litany for the Dead](./collections/litany-for-the-dead.md)|
 |[Litany for the Poor](./collections/litany-for-the-poor.md)|
 |[Litany for the Homeless](./collections/litany-for-the-homeless.md)|
