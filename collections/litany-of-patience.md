@@ -1,4 +1,4 @@
-# Litany of Humility
+# Litany of Patience
 
 From the desire to control my life,
 
