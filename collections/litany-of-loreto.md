@@ -146,11 +146,12 @@ Lamb of God, who takes away the sins of the world,
 
 
 Pray for us, O holy Mother of God. 
+
 That we may be made worthy of the promises of Christ.
 
 Let us pray. 
 
-Grant, we beseech thee, 
+>Grant, we beseech thee, 
 O Lord God, 
 that we, your servants,
 may enjoy perpetual health of mind and body; 
